@@ -1,0 +1,202 @@
+[
+    {
+        "Name": "Arnica Massage Oil",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/2-Arnica-Massage-Oil-thumb.jpg"
+    },
+    {
+        "Name": "Belebende Lotion",
+        "Brand": "Oceanwell",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/5-Belebende-Lotion-thumb.jpg"
+    },
+    {
+        "Name": "Green Clay",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "N/A"
+    },
+    {
+        "Name": "Good Mood Organic Aroma Roll-On",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/18-Good-Mood-Aroma-Roll-On-thumb.jpg"
+    },
+    {
+        "Name": "Organic Lavender Water",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/19-74104_Lavendelwasser_gimped-thumb.jpg"
+    },
+    {
+        "Name": "Organic Orange Blossom Floral Water",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/21-Orange-Blossom-Floral-Water-thumb.jpg"
+    },
+    {
+        "Name": "Organic Peppermint Water",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/22-Peppermint-Water-thumb.jpg"
+    },
+    {
+        "Name": "Organic Rose Water",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/23-Organic-Rose-Water-thumb.jpg"
+    },
+    {
+        "Name": "Organic Witch Hazel Water",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/25-Organic-Witch-Hazel-Water-thumb.jpg"
+    },
+    {
+        "Name": "Wheat Germ Oil",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/30-Wheat-Germ-Oil-thumb.jpg"
+    },
+    {
+        "Name": "White Clay",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "N/A"
+    },
+    {
+        "Name": "Cold Comfort Organic Balm",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/42-Cold-Comfort-Organic-Balm-thumb.jpg"
+    },
+    {
+        "Name": "Head Comfort Organic Aroma Roll-On",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/51-Head-Comfort-Organic-Aroma-Roll-On-thumb.jpg"
+    },
+    {
+        "Name": "Stress Free Organic Aroma Roll-On",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/53-Aroma-Roll-On-Stress-free-thumb.jpg"
+    },
+    {
+        "Name": "Sleep Comfort Organic Balm",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/55-Sleep-Comfort-Organic-Balm-thumb.jpg"
+    },
+    {
+        "Name": "Sleep Comfort Organic Aroma Roll-On",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/56-Sleep-Comfort-Organic-Aroma-Roll-On-thumb.jpg"
+    },
+    {
+        "Name": "Birch Cellulite Oil",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/65-Birch-Cellulite-Oil-thumb.jpg"
+    },
+    {
+        "Name": "CALENDULA  Massage Oil",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/66-CALENDULA--Massage-Oil-thumb.jpg"
+    },
+    {
+        "Name": "Citrus Refreshing Body Oil",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/68-Citrus-Refreshing-Body-Oil-thumb.jpg"
+    },
+    {
+        "Name": "Pomegranate Regenerating Hand Cream",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/69-Pomegranate-Regenerating-Hand-Cream-thumb.jpg"
+    },
+    {
+        "Name": "Pomegranate Regenerating Body Oil",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/70-Pomegranate-Regenerating-Body-Oil-thumb.jpg"
+    },
+    {
+        "Name": "Lavender Relaxing Body Oil",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/71-Lavender-Relaxing-Body-Oil-thumb.jpg"
+    },
+    {
+        "Name": "Sea Buckthorn Replenishing Hand Cream",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/72-Sea-Buckthorn-Express-Hand-Cream-thumb.jpg"
+    },
+    {
+        "Name": "Sea Buckthorn Revitalising Body Oil",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/73-Sea-Buckthorn-Body-Oil-thumb.jpg"
+    },
+    {
+        "Name": "Wild Rose Harmonising Body Oil",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/75-Wild-Rose-Body-Oil-thumb.jpg"
+    },
+    {
+        "Name": "Inspire Shower Cream Pomegranate",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/76-POMEGRANATE-Creamy-Body-Wash-thumb.jpg"
+    },
+    {
+        "Name": "Vitality Shower Cream Sea Buckthorn",
+        "Brand": "Weleda",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/77-SEA-BUCKTHORN-Creamy-Body-Wash-thumb.jpg"
+    },
+    {
+        "Name": "ANTI-DANDRUFF SHAMPOO WITH ORGANIC JUNIPER OIL",
+        "Brand": "Logona",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/78-Anti-Dandruff-Shampoo-Juniper-Oil-thumb.jpg"
+    },
+    {
+        "Name": "CARE SHAMPOO WITH ORGANIC NETTLE EXTRACT",
+        "Brand": "Logona",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/79-Essential-Care-Shampoo-Bio-Nettle-thumb.jpg"
+    },
+    {
+        "Name": "GREASY HAIR SHAMPOO WITH ORGANIC LEMON BALM EXTRACT",
+        "Brand": "Logona",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/82-Greasy-Hair-Shampoo-Organic-Lemon-Balm-thumb.jpg"
+    },
+    {
+        "Name": "VOLUMISING SHAMPOO WITH ORGANIC HONEY AND BEER",
+        "Brand": "Logona",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/84-14955-Volumising-Shampoo-Beer-&-Organic-Honey-thumb.jpg"
+    },
+    {
+        "Name": "Colour Reflex Shampoo Organic Henna",
+        "Brand": "Logona",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/85-Colour-Reflex-Shampoo-Organic-Henna-thumb.jpg"
+    },
+    {
+        "Name": "Colour Reflex Shampoo Organic Hazelnut",
+        "Brand": "Logona",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/86-Colour-Reflex-Shampoo-Organic-Hazelnut-thumb.jpg"
+    },
+    {
+        "Name": "COLOUR REFLEX SHAMPOO WITH ORGANIC CAMOMILE EXTRACT",
+        "Brand": "Logona",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/87-Colour-Reflex-Shampoo-Organic-Camomile-thumb.jpg"
+    },
+    {
+        "Name": "Aufbauendes Algen-Wirkstoffkonzentrat",
+        "Brand": "Oceanwell",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/Hochwirksames_Algen_Konzentrat_2018_GIMPED-thumb.jpg"
+    },
+    {
+        "Name": "Erfrischendes Reinigungs-Gel",
+        "Brand": "Oceanwell",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/Erfrischendes_DuschReinigungsgel_2018_GIMPED-thumb.jpg"
+    },
+    {
+        "Name": "Klärendes Peeling",
+        "Brand": "Oceanwell",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/Glaettende_klaerendes-Peeling_2018_GIMPED-thumb.jpg"
+    },
+    {
+        "Name": "Nährende Pflegecreme",
+        "Brand": "Oceanwell",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/Naehrende-NachtPflegecreme_2018_GIMPED-thumb.jpg"
+    },
+    {
+        "Name": "Schützende Feuchtigkeitscreme",
+        "Brand": "Oceanwell",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/Schuetzende-Feuchtigkeitstagescreme_2018_GIMPED-thumb.jpg"
+    },
+    {
+        "Name": "Organic Apricot Kernel Oil",
+        "Brand": "PRIMAVERA",
+        "Image_URL": "./NATRUE Database _ NATRUE_files/99-Organic-Apricot-Kernel-Oil-thumb.jpg"
+    }
+]
